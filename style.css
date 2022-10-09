@@ -1,0 +1,459 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ==============================================
+=====Index Of====
+1.Basic Style
+2. Header Style
+3. society style
+4. Cliend Style
+5. FeactureList
+6. Smart Style
+7. Learn Style
+8. Group Style
+09.Pricing Style
+10.Testimonial Style
+11.Faq Style
+12. Download start
+13.Footer Style
+================================================= */
+/* ==============================================
+1. Basic Style
+================================================= */
+/* body{
+    background-color: #fff9f3;
+} */
+/* ==============================================
+2. Header style
+================================================= */
+header{
+   
+}
+header nav{
+
+}
+header nav h4{
+    color:#666666 ;
+    font-size: 16px;
+    font-style: italic;
+}
+header nav ul{
+    margin-left: 300px;
+}
+header nav ul li {
+    padding:0px 5px;
+    text-align: center;
+}
+header nav ul li a{
+    margin-top: px;
+    color: #000;
+    font-size: 16px;
+}
+header nav ul li .nav1{
+    color: #ffc178;
+}
+header hr{
+    margin-top: -8px;
+    color: #ffc178;
+}
+header nav form .btn{
+    border:none;
+    color: #ffc178;
+    background-color:#fff ;
+}
+header nav form .btn:hover{
+    color: #ffc178;
+}
+/* ==============================================
+3.society style
+================================================= */
+#society{
+    clear: both;
+    padding: 100px 0px;
+}
+#society .img{
+
+}
+#society .img img{
+    width: 120%;
+    margin-top: px;
+
+    display: block;
+}
+#society .text{
+    
+}
+#society .text h4{
+    font-size: 40px;
+    color: #ffc178;
+    margin-top: -600px;
+}
+#society .text p{
+    color: #5a6e79;
+    font-size: 18px;
+    margin-top:;
+}
+#society .btnbox .btn{
+    background-color:#ffc178;
+    border: none;
+    color:#fff ;
+}
+/* ==============================================
+4.department style
+================================================= */
+#depart{
+    clear: both;
+    padding: 100px 0px;
+}
+#depart .text1{
+    text-align: center;
+    margin-top: 50px;
+}
+#depart .text1 h4{
+    margin-top: ;
+    font-size: 40px;
+    font-weight: 700;
+    color: #252c3a;
+}
+#depart .text1 P{
+    padding: 30px 0px;
+    color: #5a6e79;
+    font-size: 16px;
+}
+#depart .body{
+    width: 360px;
+    height: 434px;
+    background-color: #f9703a;
+}
+#depart .body img{
+    margin: 0px 42px;
+}
+#depart .body h4{
+    text-align: center;
+    font-weight: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 48px;
+}
+#depart .body1{
+    width: 360px;
+    height: 434px;
+    background-color: #80be41;
+}
+#depart .body1 img{
+    margin: 0px 42px;
+}
+#depart .body1 h4{
+    text-align: center;
+    font-weight: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 48px;
+}
+#depart .body2{
+    width: 360px;
+    height: 434px;
+    background-color:#ffb258;
+}
+#depart .body2 img{
+    margin: 0px px;
+ 
+}
+#depart .body2 h4{
+    text-align: center;
+    font-weight: 30px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: -100px;
+    
+}
+#depart .head{
+    background-image: url("asset/img/bgshape.jpg");
+    background-repeat: no-repeat;  
+    width: 40%;
+    
+}
+#depart .head .img{
+   
+}
+#depart .head .img img{
+    width: ;
+    
+}
+#depart .head .img2{
+    
+}
+#depart .head .img2 img{
+    position: absolute;
+    width: 40%;
+    margin-top: -500px;
+} 
+
+/* ==============================================
+5.aroune style
+================================================= */
+#around{
+    padding: 40px 0px;
+    background-color: #f4f4f6;
+}
+#around .text{
+    
+}
+#around .text h1{
+    text-align: center;
+    padding: 50px 0px;
+}
+#around .body{
+    padding-bottom: 30px;
+}
+#around .body .text1{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text1 p{
+    color: #ffc178;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text1 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text1 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+#around .body .text2{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text2 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text2 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text2 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+
+#around .body .text3{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text3 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text3 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text3 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+
+
+#around .body .text4{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text4 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text4 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text4 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+
+
+#around .body .text5{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text5 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text5 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text5 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+
+#around .body .text6{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text6 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text6 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text6 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+
+#around .body .text7{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text7 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text7 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text7 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+#around .body .text8{
+    width: 262px;
+    background-color: #ffffff;
+    box-shadow: 0.2px 0.2px 2px rgba(0, 0, 0, 1.2);
+}
+#around .body .text8 p{
+    color: #252c3a;
+    font-size: 16px;
+    margin-top: 22px;
+    padding-bottom: 0px;
+
+}
+#around .body .text8 h6{
+    margin-top: -10px;
+    font-size: 12px;
+    color: #5a6e79;
+}
+#around .body .text8 h5{
+    padding: 40px 0px;
+    font-size: 14px;
+    color: #252c3a;
+}
+
+/* ==============================================
+5.banner style
+================================================= */
+#banner{
+    background-color: #252c3a;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+#banner .part1{
+
+}
+#banner .part1 .text1{
+
+}
+#banner .part1 hr{
+    color: #ffffff;
+}
+#banner .part1 .text1 h3{
+    font-size: 28px;
+    color: #ffffff;
+}
+#banner .part1 .text1 p{
+    color: #ffffff;
+    font-size: 11px;
+    margin-top: -14px;
+}
+#banner .part1 .text2{
+    color: #ffffff;
+}
+#banner .part1 .icon{
+    color: #ffffff;
+}
+#banner .part2 {
+
+}
+#banner .part2 .text1 a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #ffffff;
+}
+#banner .part2 .text2 a{
+    text-decoration: none;
+    padding: 20px 0px;
+    line-height: 50px;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+#banner .part3{
+
+}
+#banner .part3 .text1 a{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+#banner .part3 .text2 a{
+    text-decoration: none;
+    font-size:12px;
+    display: inline-block;
+    padding: 10px 0px;
+}
